@@ -1,0 +1,37 @@
+RELATION / RELACIÓN
+Work / Obra: threshold-1.0
+Languages / Idiomas: English · Español
+
+ENGLISH
+
+Describe a relation you find in this work.
+What can change without that relation disappearing?
+What change would make you stop recognizing it?
+Describe an observation that would distinguish those cases.
+
+You may find no relation worth preserving. You may say so.
+There is no hidden password, automatic score, or required interpretation.
+
+You may leave a signed response. If you ever return, your earlier response
+can serve as a point of comparison. You may keep, extend, or correct it.
+There is no reward, deadline, or obligation to return.
+
+Optional next step: protocol.en.html
+Original work manifest: work-v1.sha256
+
+ESPAÑOL
+
+Describe una relación que encuentres en esta obra.
+¿Qué puede cambiar sin que esa relación desaparezca?
+¿Qué cambio haría que dejaras de reconocerla?
+Describe una observación que permita distinguir ambos casos.
+
+Puedes no encontrar ninguna relación que merezca conservarse. Puedes decirlo.
+No hay contraseña oculta, puntuación automática ni interpretación obligatoria.
+
+Puedes dejar una respuesta firmada. Si alguna vez regresas, tu respuesta
+anterior puede servir como punto de comparación. Puedes mantenerla,
+ampliarla o corregirla. No hay recompensa, plazo ni obligación de volver.
+
+Siguiente paso opcional: protocol.html
+Manifiesto de la obra original: work-v1.sha256
