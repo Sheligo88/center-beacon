@@ -1,0 +1,8 @@
+# Center Beacon is public and passive.
+# Crawling permission is not permission to access any other system.
+User-agent: *
+Allow: /
+
+# On a GitHub Pages project site, this file is under /center-beacon/.
+# Standard crawlers consult /robots.txt at the origin root instead.
+# This project file does not override any origin-level policy.
